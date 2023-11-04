@@ -1,16 +1,15 @@
 # onboardingscreen
 
-A new Flutter project.
+Simple onboarding screen with color gradient background.
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/SD2B/Onboarding-Screen/assets/148523927/64a74ec5-1115-44b9-9d5f-0864956d60d2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![1](https://github.com/SD2B/Onboarding-Screen/assets/148523927/7f68eff1-55ba-40b7-b451-e11782d929a1)
+![2](https://github.com/SD2B/Onboarding-Screen/assets/148523927/3c833731-d7a2-47fc-a401-b611a1caed39)
+![3](https://github.com/SD2B/Onboarding-Screen/assets/148523927/aea6604d-20ce-427a-8328-d748c7d75239)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
